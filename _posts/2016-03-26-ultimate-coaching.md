@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: Ultimate Coaching
-datePublished: '2016-03-26T16:08:06.481Z'
-dateModified: '2016-03-26T16:07:35.317Z'
+datePublished: '2016-03-26T16:09:07.031Z'
+dateModified: '2016-03-26T16:08:13.827Z'
 title: ''
 author: []
+sourcePath: _posts/2016-03-26-ultimate-coaching.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-26-ultimate-coaching.md
-published: true
 url: ultimate-coaching/index.html
 _type: Article
 
