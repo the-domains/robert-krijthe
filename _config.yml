@@ -1,0 +1,28 @@
+name: Robert Krijthe
+favicon: null
+layout_spectrum: 0.74958610907197
+typography_spectrum: 0.7978262177202851
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.9196495315991342
+  lightness: 0.45880882325582206
+  saturation: 0.4398994806688279
+  rhythmicContrast: 0.4444422163069248
+purpose: []
