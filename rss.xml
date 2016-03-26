@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Robert Krijthe]]></title>
         <description><![CDATA[Robert Krijthe]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/robert-krijthe/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 26 Mar 2016 16:08:25 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 26 Mar 2016 16:09:18 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/robert-krijthe/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f6280bda-cf37-437b-b445-d0ffacc1b6ec.jpg">]]></description>
-            <link>undefinedultimate-coaching/index.html</link>
+            <link>https://thegrid.ai/robert-krijthe/ultimate-coaching/index.html</link>
             <guid isPermaLink="false">a7b923af-cfdf-4398-b6e7-67eed9763bd8</guid>
-            <pubDate>Sat, 26 Mar 2016 16:08:06 GMT</pubDate>
+            <pubDate>Sat, 26 Mar 2016 16:09:07 GMT</pubDate>
         </item>
     </channel>
 </rss>
